@@ -22,10 +22,10 @@ The following is the project structure:
  ```
  3. Join the Slack Workplace
  ```
- https://sanadslacktest.slack.com/
+ https://<your_workspace_here>.slack.com/
  ```
  4. Try chatting with your bot. Start by saying "Hi"!
-
+ :D
 ## Dependencies
 The project depends upon the following packages:
 
